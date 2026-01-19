@@ -122,20 +122,16 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
-## [HOL Standards SDK](https://hol.org/docs/libraries/standards-sdk/overview/)
-The Hashgraph Online Standards SDK provides the RegistryBrokerClient - a typed, batteries-included wrapper around the Universal Agentic Registry. Enables AI agent discovery, registration, blockchain-based identity (ERC-8004, UAIDs), chat relay, and autonomous commerce via x402 protocol with Zod-backed validation.
+## [HOL Standards SDK](https://github.com/hashgraph-online/standards-sdk)
+TypeScript SDK for building AI agents on the Hedera network. Provides agent discovery and registration via the Registry Broker.
 
 <details>
 
-<!-- ### Description -->
-
 ### Links
-- [Web](https://hol.org/)
-- [Registry](https://hol.org/registry)
-- [Documentation](https://hol.org/docs/libraries/standards-sdk/overview/)
-- [Registry Broker Client Docs](https://hol.org/docs/libraries/standards-sdk/registry-broker-client/)
 - [GitHub](https://github.com/hashgraph-online/standards-sdk)
 - [NPM](https://www.npmjs.com/package/@hashgraphonline/standards-sdk)
+- [Documentation](https://hol.org/docs/libraries/standards-sdk/overview/)
+- [Website](https://hol.org/)
 
 </details>
 
