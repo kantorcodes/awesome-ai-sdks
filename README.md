@@ -122,6 +122,20 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [HOL Guard](https://hol.org/guard)
+Open-source local security and runtime protection for AI agents, tools, MCP servers, plugins, skills, and package installs. It scans agent artifacts and can block risky actions such as prompt-injection-driven commands, secret/exfiltration access, malicious packages, and unsafe MCP/tool behavior before side effects occur.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://hol.org/guard)
+- [GitHub](https://github.com/hashgraph-online/hol-guard)
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
